@@ -1,10 +1,10 @@
 .item {
     background-color: grey;
-    border-radius: 10px;
+    border-radius: 1rem;
     padding: 2rem;
     margin: 2rem;
 }
 
 .item > img {
-    border-radius: 10px;
+    border-radius: 1rem;
 }

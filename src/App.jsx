@@ -7,7 +7,13 @@ import Item from './Item.jsx'
 function App() {
   return (
     <>
-    <Item name="iphone case" imageSrc="amustycow-iphone-case.jpg" price="100"/>
+    <div className="itemsContainer">
+      <Item name="iphone case" imageSrc="amustycow-iphone-case.jpg" price="100"/>
+      <Item name="iphone case" imageSrc="amustycow-iphone-case.jpg" price="100"/>
+      <Item name="iphone case" imageSrc="amustycow-iphone-case.jpg" price="100"/>
+      <Item name="iphone case" imageSrc="amustycow-iphone-case.jpg" price="100"/>
+      <Item name="iphone case" imageSrc="amustycow-iphone-case.jpg" price="100"/>
+    </div>
    </>
   )
 }

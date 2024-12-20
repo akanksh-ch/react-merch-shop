@@ -1,5 +1,12 @@
 #root {
   background-color: #242424;
+}
+
+.itemsContainer {
   display: flex;
   flex-direction: row;
-}
+  max-width: 100vw;
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+} 
