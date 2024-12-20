@@ -1,0 +1,8 @@
+div {
+    background-color: grey;
+    border-radius: 10px;
+}
+
+div > img {
+    border-radius: 10px;
+}
