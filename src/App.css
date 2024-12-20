@@ -6,7 +6,5 @@
   display: flex;
   flex-direction: row;
   max-width: 100vw;
-  white-space: nowrap;
-  overflow-x: auto;
   overflow-y: hidden;
 } 
